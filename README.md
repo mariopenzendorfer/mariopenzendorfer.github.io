@@ -1,2 +1,2 @@
 # mariopenzendorfer.github.io
-Persional Home Page
+Personal Home Page
